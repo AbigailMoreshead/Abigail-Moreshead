@@ -25,7 +25,7 @@ interests:
 - adaptation theory
 - Victorian studies
 
-education: University of Central Florida
+education:
   courses:
   - course:
     institution:
