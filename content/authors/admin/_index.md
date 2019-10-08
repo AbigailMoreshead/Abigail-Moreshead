@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course:
-    institution:
-    year: 2011
+  - course: Master of Arts in Literary, Cultural, and Textual Studies
+    institution: University of Central Florida
+    year: 2017
   - course:
     institution:
     year:
