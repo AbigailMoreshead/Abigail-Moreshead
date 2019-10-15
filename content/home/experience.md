@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "www.ucf.edu"
   location = "Florida"
-  date_start = "2019-08"
+  date_start = "2019-08-08"
   date_end = ""
   description = """
   Responsibilities include:
