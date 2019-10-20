@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2019-08-08"
   date_end = ""
-  description = """ Instructor of record for English courses, including literature and technical writing classes."""
-  Responsibilities include =
+  description = """Instructor of record for English courses, including literature and technical writing classes."""
+#  Responsibilities include =
 
   * Analysing
   * Modelling
