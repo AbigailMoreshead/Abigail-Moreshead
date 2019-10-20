@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-08-08"
   date_end = ""
   description = """Instructor of record for English courses, including literature and technical writing classes."""
-#  Responsibilities include =
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Professor"
