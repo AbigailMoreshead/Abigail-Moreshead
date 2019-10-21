@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. She holds a BA in English literature and an MA in literary, cultural, and textual studies. She also teaches courses in literary criticism and technical communication and was previously the assistant editor of The Faulkner Journal.
+Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. She holds a BA in English literature and an MA in literary, cultural, and textual studies. She teaches courses in literary criticism and technical communication and was previously the assistant editor of The Faulkner Journal.
