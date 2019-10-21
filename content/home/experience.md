@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """Instructor of record for English courses, including literature and technical writing classes."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Adjunct Professor of English"
+  company = "University of Central Florida"
+  company_url = "www.ucf.edu"
+  location = "Florida"
+  date_start = "2018-01-01"
+  date_end = "2019-07-01"
+  description = """Taught various courses for the English Department including technical communication and Language and Meaning."""
 
 +++
