@@ -27,9 +27,9 @@ description = "75%"
   description = "50%"  
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "fab fa-facebook"
+  icon_pack = "fab"
+  name = "facebook"
+  description = "100%"
 
 +++
