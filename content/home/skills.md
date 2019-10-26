@@ -21,7 +21,7 @@ name = "Zotero"
 description = "75%"
 
 [[feature]]
-  icon = "fa-adobe"
+  icon = "f778"
   icon_pack = "fab"
   name = "Adobe"
   description = "50%"  
