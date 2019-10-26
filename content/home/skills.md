@@ -18,13 +18,13 @@ subtitle = ""
 icon = "zotero"
 icon_pack = "ai"
 name = "Zotero"
-description = "100%"
+description = "75%"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "fa-adobe"
+  icon_pack = "fab"
+  name = "Adobe"
+  description = "50%"  
 
 [[feature]]
   icon = "camera-retro"
