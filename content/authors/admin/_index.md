@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Texts and Technology
     institution: University of Central Florida
-    year: In progress
+    year: in progress
   - course: Master of Arts in Literary, Cultural, and Textual Studies
     institution: University of Central Florida
     year: 2017

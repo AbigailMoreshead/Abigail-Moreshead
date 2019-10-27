@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
   [[experience]]
     title = "Assistant Editor"
-    company = "The Faulkner Journal"
+    company = _rendered as italicized text_"The Faulkner Journal"
     company_url = ""
     location = "Florida"
     date_start = "2015-08-12"
