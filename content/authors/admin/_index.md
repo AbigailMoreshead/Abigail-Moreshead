@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD, Texts and Technology
     institution: University of Central Florida
-    year: in progress
+    year: 2019
   - course:
     institution:
     year:
