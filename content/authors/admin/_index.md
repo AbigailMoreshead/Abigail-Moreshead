@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate, Texts and Technology and Graduate Instructor, English Department
+role: PhD Candidate, Texts and Technology and Graduate Teaching Associate, English Department
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,13 @@ organizations:
 bio: My research interests include creation, reception, and dissemination of literary texts and feminist publishing.
 
 interests:
-- feminist theory
-- adaptation theory
+- Digital humanities
+- Feminist theory
+- Adaptation theory
 - Victorian studies
-
+- History of publishing/feminist publishing
+- History of the Novel
+-
 education:
   courses:
   - course: Master of Arts in Literary, Cultural, and Textual Studies
@@ -53,7 +56,7 @@ social:
   link: files/abigailmoreshead_cv
 - icon:
   icon_pack:
-  link: 
+  link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
