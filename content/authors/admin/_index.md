@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include creation, reception, and dissemination of literary texts and feminist publishing.
+bio: My research interests include creation, reception, and dissemination of literary texts, adaptation theory, and feminist publishing.
 
 interests:
 - Digital humanities
