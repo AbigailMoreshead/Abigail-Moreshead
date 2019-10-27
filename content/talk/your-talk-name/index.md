@@ -16,7 +16,26 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2016-09-23T20:39:06-04:00
+date: 2018-02-17T20:39:06-04:00
+# date_end: 2019-10-21T20:39:06-04:00
+all_day: true
+
+title: "“‘My America’: Postcolonialism and the Female Body in Carter’s The Magic Toyshop"
+event: International Women's Issues Conference
+event_url: https://wgst.cah.ucf.edu/conferences/womens-issues-conference/
+location: University of Central Florida
+address:
+  street:
+  city: Orlando
+  region: Florida
+  postcode:
+  country:
+summary:
+abstract:
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2018-02-17T20:39:06-04:00
 # date_end: 2019-10-21T20:39:06-04:00
 all_day: true
 
