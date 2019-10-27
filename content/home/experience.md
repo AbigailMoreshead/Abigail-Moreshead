@@ -35,4 +35,12 @@ date_format = "Jan 2006"
   date_end = "2019-07-01"
   description = """Taught various courses for the English Department including technical communication and Language and Meaning."""
 
+  [[experience]]
+    title = "Assistant Editor"
+    company = "The Faulkner Journal"
+    company_url = ""
+    location = "Florida"
+    date_start = "2015-08-12"
+    date_end = "2017-08-12"
+    description = """Oversaw the publication, formatting, proofreading, and office management of a scholarly journal focused on the works of William Faulkner. """
 +++
