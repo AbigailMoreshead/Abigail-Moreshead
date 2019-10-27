@@ -37,9 +37,9 @@ education:
   - course: Master of Arts in Literary, Cultural, and Textual Studies
     institution: University of Central Florida
     year: 2017
-  - course:
-    institution:
-    year:
+#  - course:
+#    institution:
+#    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
