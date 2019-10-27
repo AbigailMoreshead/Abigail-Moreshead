@@ -28,26 +28,15 @@ interests:
 - History of publishing/feminist publishing
 - History of the Novel
 
-education:
-  courses:
-  - course: PhD, Texts and Technology
-    institution: University of Central Florida
-    year: 2019
-  - course:
-    institution:
-    year:
-  - course:
-    institution:
-    year:
 
 education:
   courses:
+  - course: PhD in Texts and Technology
+    institution: University of Central Florida
+    year: In progress
   - course: Master of Arts in Literary, Cultural, and Textual Studies
     institution: University of Central Florida
     year: 2017
-  - course:
-    institution:
-    year:
   - course:
     institution:
     year:
