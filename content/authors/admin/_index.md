@@ -27,7 +27,19 @@ interests:
 - Victorian studies
 - History of publishing/feminist publishing
 - History of the Novel
--
+
+education:
+  courses:
+  - course: PhD, Texts and Technology
+    institution: University of Central Florida
+    year: in progress
+  - course:
+    institution:
+    year:
+  - course:
+    institution:
+    year:
+
 education:
   courses:
   - course: Master of Arts in Literary, Cultural, and Textual Studies
