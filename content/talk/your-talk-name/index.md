@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "“‘My America’: Postcolonialism and the Female Body in Carter’s _The Magic Toyshop_"
+title: "“‘My America’: Postcolonialism and the Female Body in Carter’s *The Magic Toyshop*"
 event: International Women's Issues Conference
 event_url: https://wgst.cah.ucf.edu/conferences/womens-issues-conference/
 location: University of Central Florida
