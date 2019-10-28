@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/ARMoreshead
 - icon: cv
   icon_pack: ai
-  link: files/abigailmoreshead_cv_102019
+  link: files/abigailmoreshead_CV_102019
 - icon:
   icon_pack:
   link:
