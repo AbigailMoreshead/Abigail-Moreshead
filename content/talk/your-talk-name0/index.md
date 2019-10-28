@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "“‘My America’: Postcolonialism and the Female Body in Carter’s The Magic Toyshop"
-event: International Women's Issues Conference
-event_url: https://wgst.cah.ucf.edu/conferences/womens-issues-conference/
-location: University of Central Florida
+title: "“‘The Journey from Platform Nine and Three-Quarters’: Victorian Nostalgia in Rowling’s Harry Potter Series.”"
+event: Literature of the Hidden and Fantastic
+# event_url:
+location: University of Arkansas at Fort Smith
 address:
   street:
-  city: Orlando
-  region: Florida
+  city: Fort Smith
+  region: Arkansas
   postcode:
   country:
 summary:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-02-17T20:39:06-04:00
+date: 2016-09-24T20:39:06-04:00
 # date_end: 2019-10-21T20:39:06-04:00
 all_day: true
 
