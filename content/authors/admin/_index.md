@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Her dissertation is on the careers and global reception of women artist-illustrators of the early twentieth-century wood engraving revival and the way their artwork builds a feminist legacy of the Arts & Crafts Movement. 
+bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Using feminist media historical lens, her dissertation focuses on the careers and global reception of women artist-illustrators of the early twentieth-century wood engraving revival and argues for the role of their work in building a feminist legacy of the Arts & Crafts Movement. 
 
 interests:
 - Feminist bibliography and media history
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. She holds a BA in English literature and an MA in literary, cultural, and textual studies. She teaches courses in literary criticism and technical communication and was previously the assistant editor of <em>The Faulkner Journal</em>.
+Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Using feminist media historical lens, her dissertation focuses on the careers and global reception of women artist-illustrators of the early twentieth-century wood engraving revival and argues for the role of their work in building a feminist legacy of the Arts & Crafts Movement. 
