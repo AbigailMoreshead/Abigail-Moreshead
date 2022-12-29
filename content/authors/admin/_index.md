@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Her dissertation is on the work and global reception of women artist-engravers of the early twentieth-century wood engraving revival. 
+bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Her dissertation is on the careers and global reception of women artist-illustrators of the early twentieth-century wood engraving revival and the way their artwork builds a feminist legacy of the Arts & Crafts Movement. 
 
 interests:
 - Feminist bibliography and media history
