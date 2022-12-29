@@ -13,6 +13,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
+  
+Moreshead, Abigail. “Gender and Para-Academic Labor: The Invisible Translators of Old 
+English and their Intangible Legacy in Digital Humanities.” Nineteenth-Century Gender Studies
+18.2 (2022): http://ncgsjournal.com/issue182/moreshead.html
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
