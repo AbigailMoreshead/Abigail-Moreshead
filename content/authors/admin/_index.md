@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Her dissertation is on the work and global reception of women artist-engravers of the early twentieth-century wood engraving revival. Abigail is currently the assistant editor of the James Joyce Literary Supplement and the social media manager for Johnson’s Dictionary Online.
-
+bio: Abigail Moreshead is a PhD candidate in the Texts and Technology program at the University of Central Florida. Her research looks at the intersection of book studies and feminist media history, focusing on gendered labor in textual production and knowledge creation. Her dissertation is on the work and global reception of women artist-engravers of the early twentieth-century wood engraving revival. 
 
 interests:
 - Feminist bibliography and media history
